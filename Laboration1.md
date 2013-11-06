@@ -3,8 +3,10 @@ I denna laboration skall du komma igång med versionshantering och sedan öva p�
 
 Arkiv (zip) med exekverbarfil, källkod, samt manual/specifikation och en tutorial över Testning i VisualStudio 2012.
 
-VS2012_Test_Tutorial.mp4 2012-11-228.51 MB
-Triangel.zip 2012-11-135.82 kB
+[VS2012_Test_Tutorial.mp4 2012-11-22 8.51 MB](http://orion.lnu.se/pub/education/course/1DV404/ht12/filer/labb/labb1/VS2012_Test_Tutorial.mp4)
+
+[Triangel.zip 2012-11-13 5.82 kB](http://orion.lnu.se/pub/education/course/1DV404/filer/labb/labb1/Triangel.zip)
+
 För närvarande finns kod för C# och Java (tack till Johannes Löhnn för Javadelen). Koden har samma funktionalitet och struktur men innehåller naturligtvis mindre språkspecifika skillnader. Välj det språk du själv känner dig mest bekväm med dock står man lite mer på egen hand om man väljer något annat än C# och VisualStudio som utvecklingsmiljö.
 
 ## Deadline och redovisning
@@ -22,7 +24,8 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 ## Genomförande
 
 ### GitHub och Versionshantering
-1. Logga först och främst in på GitHub och besök uppgiftens repro: [https://github.com/1dv404/Uppgift-1/] (https://github.com/1dv404/Uppgift-1/)
+
+1. Logga först och främst in på GitHub och besök uppgiftens repro: [] (https://github.com/1dv404/Uppgift-1/)
 2. För att göra en "fork" av reprot så klickar du på "Fork" i övre högra delen av webbsidan.
 ![Fork][github-fork]
 3. Nu finns en kopia av ursprungsreprot på ditt GitHub-konto.
@@ -30,6 +33,7 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 
 
 ### Blackbox-testning
+
 1. Analysera applikationen och skapa ett antal testfall. Använd t.ex. ekvivalensklasser och gränsvärdesanalys.
 2. Utför dina testfall, d.v.s. kör applikationen och mata in den indata du skapat enligt ovan.
 3. Granska och dokumentera utfallet (lyckat/misslyckat ev. kommentar).
@@ -47,9 +51,9 @@ För att kunna förstå koden och korrigera ev. defekter så kan det vara bra at
 
 Laborationen bör gå att genomföra med mono och nunit (för den som inte vill köra visual studio). Det är dock upp till dig att lista ut hur man gör. Används (t.ex.) följande resurser som utgångspunkt:
 
-[Mono](http://www.mono-project.com/)<br/>
-[Code coverage](http://www.mono-project.com/Code_Coverage)<br/>
-[NUnit](http://www.nunit.org/)<br/>
-[Stack Overflow](http://stackoverflow.com/questions/tagged/mono+nunit)
+* [Mono](http://www.mono-project.com/)
+* [Code coverage](http://www.mono-project.com/Code_Coverage)
+* [NUnit](http://www.nunit.org/)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/mono+nunit)
 
-[github-fork]: https://github.com/1dv404/Laborationer/raw/master/pics/github-fork.png
+[github-fork]: https://raw.github.com/1dv404/Laborationer/master/pics/github-fork.png
