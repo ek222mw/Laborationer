@@ -21,14 +21,13 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 
 ## Genomförande
 
-### VPN och Versionshantering
-1. Koppla upp dig på vpn200 enligt instruktionerna.
-2. Installera klientmjukvara för subversion, t.ex. TortoiseSVN eller motsvarande om du inte redan har tillgång till det. subversion.apache.org
-3. Läs introduktionstexten till versionshantering samt de delar av din klients hjälpdokumentation som du känner att du behöver.
-4. Till kursen finns ett respositorium på http://172.16.202.2/1dv404/svn gör en lokal kopia (checkout) av detta respositorium på din dator.
-5. Lägg in en underkatalog till “Trunk” med ditt användarnamn.
-6. Lägg in en underkatalog till din katalog med namn “labb1″.
-7. Lägg in en testfil (labb1.txt) med något innehåll din “labb1″ mapp.
+### GitHub och Versionshantering
+1. Logga först och främst in på GitHub och besök uppgiftens repro: [https://github.com/1dv404/Uppgift-1/] (https://github.com/1dv404/Uppgift-1/)
+2. För att göra en "fork" av reprot så klickar du på "Fork" i övre högra delen av webbsidan.
+![Fork][github-fork]
+3. Nu finns en kopia av ursprungsreprot på ditt GitHub-konto.
+4. Använd valfri git client för att göra en clon av ditt repro till den lokala datorn du sitter och jobbar på.
+
 
 ### Blackbox-testning
 1. Analysera applikationen och skapa ett antal testfall. Använd t.ex. ekvivalensklasser och gränsvärdesanalys.
@@ -52,3 +51,5 @@ Laborationen bör gå att genomföra med mono och nunit (för den som inte vill 
 [Code coverage](http://www.mono-project.com/Code_Coverage)<br/>
 [NUnit](http://www.nunit.org/)<br/>
 [Stack Overflow](http://stackoverflow.com/questions/tagged/mono+nunit)
+
+[github-fork]: https://github.com/1dv404/Laborationer/raw/master/pics/github-fork.png
