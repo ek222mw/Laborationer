@@ -48,7 +48,7 @@ För att kunna förstå koden och korrigera ev. defekter så kan det vara bra at
 
 Laborationen bör gå att genomföra med mono och nunit (för den som inte vill köra visual studio). Det är dock upp till dig att lista ut hur man gör. Används (t.ex.) följande resurser som utgångspunkt:
 
-[Mono](http://www.mono-project.com/)
-[Code coverage](http://www.mono-project.com/Code_Coverage)
-[NUnit](http://www.nunit.org/)
+[Mono](http://www.mono-project.com/)<br/>
+[Code coverage](http://www.mono-project.com/Code_Coverage)<br/>
+[NUnit](http://www.nunit.org/)<br/>
 [Stack Overflow](http://stackoverflow.com/questions/tagged/mono+nunit)
