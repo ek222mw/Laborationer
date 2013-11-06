@@ -25,7 +25,7 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 
 ### GitHub och Versionshantering
 
-1. Logga först och främst in på GitHub och besök uppgiftens repro: [] (https://github.com/1dv404/Uppgift-1/)
+1. Logga först och främst in på GitHub och besök uppgiftens repro: [https://github.com/1dv404/Uppgift-1/](https://github.com/1dv404/Uppgift-1/)2.
 2. För att göra en "fork" av reprot så klickar du på "Fork" i övre högra delen av webbsidan.
 ![Fork][github-fork]
 3. Nu finns en kopia av ursprungsreprot på ditt GitHub-konto.
@@ -45,6 +45,9 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 2. Implementera enhetstester som täcker funktionaliteten i klassen.
 3. Utför enhetstesterna och korrigera de fel/defekter/brister du hittar om du satsar på betyg över 3.
 4. Upprepa steg från steg 1 tills du är nöjd.
+
+
+
 
 #### Tips
 För att kunna förstå koden och korrigera ev. defekter så kan det vara bra att repetera Pythagoras sats och lite om det tvådimensionella Kartesiska koordinatsystemet.
