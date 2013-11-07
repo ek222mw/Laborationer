@@ -30,7 +30,8 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 ![Fork][github-fork]
 3. Nu finns en kopia av ursprungsreprot på ditt GitHub-konto.
 4. Använd valfri git client för att göra en clon av ditt repro till den lokala datorn du sitter och jobbar på.
-
+5. Genomför laborationens steg med Blackbox och Whitebox testning. Gör commits minst efter varje steg i uppgifterna.
+6. När du är färdig eller vill få en backup av ditt repro gör du en push till github.
 
 ### Blackbox-testning
 
@@ -45,8 +46,6 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 2. Implementera enhetstester som täcker funktionaliteten i klassen.
 3. Utför enhetstesterna och korrigera de fel/defekter/brister du hittar om du satsar på betyg över 3.
 4. Upprepa steg från steg 1 tills du är nöjd.
-
-
 
 
 #### Tips
