@@ -21,6 +21,11 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 * Dina automatiska-enhetstester (som även skall kompileras och exekveras under redovisning)
 * Den åtgärdade klassen (för chans till högre betyg)
 
+## Föreslå ändringar
+
+Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om du vill föreslå ändringar eller hålla koll på vad de senaste uppdateringarna innebar.
+
+
 ## Genomförande
 
 ### GitHub och Versionshantering
@@ -30,8 +35,8 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 ![Fork][github-fork]
 3. Nu finns en kopia av ursprungsreprot på ditt GitHub-konto.
 4. Använd valfri git client för att göra en clon av ditt repro till den lokala datorn du sitter och jobbar på.
-5. Genomför laborationens steg med Blackbox och Whitebox testning. Gör commits minst efter varje steg i uppgifterna.
-6. När du är färdig eller vill få en backup av ditt repro gör du en push till github.
+5. Genomför laborationens steg med Blackbox och Whitebox testning. Gör en commit minst efter varje steg i uppgifterna.
+6. När du är färdig eller vill skapa en backup av ditt repro gör du en push till github.
 
 ### Blackbox-testning
 
