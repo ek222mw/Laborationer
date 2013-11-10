@@ -7,6 +7,10 @@ Uppgiften skall godkännas senast v.50
 
 Uppgiften redovisas genom att visionen visas för och diskuteras med handledare.
 
+## Föreslå ändringar
+
+Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om du vill föreslå ändringar eller hålla koll på vad de senaste uppdateringarna innebar.
+
 ## Uppgiften
 
 Du skall nu påbörja en enkel vision för ett valfritt system. Systemet kan vara webb-baserat, en desktop-applikation, mobil-app, vissa typer av spel etc. Välj något med mycket användarinteraktion (alltså inte ett inbyggt-system). Det är en fördel att välja ett “stort” system då det ger större valfrihet kring fördjupning i kommande laborationer.

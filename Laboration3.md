@@ -11,6 +11,10 @@ Uppgiften skall godkännas senast v.51
 
 Uppgiften redovisas genom att kraven visas för och diskuteras med handledare.
 
+## Föreslå ändringar
+
+Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om du vill föreslå ändringar eller hålla koll på vad de senaste uppdateringarna innebar.
+
 ## Förberedelse
 
 Läs kap 5, 6 och 7 i kurslitteraturen så är du väl förberedd på att klara laborationens moment. Kolla gärna igenom den föreläsning som tar upp användningsfall.

@@ -11,6 +11,10 @@ Uppgiften skall godkännas senast v.1
 
 Uppgiften redovisas genom att testfall och krav visas för och diskuteras med handledare.
 
+## Föreslå ändringar
+
+Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om du vill föreslå ändringar eller hålla koll på vad de senaste uppdateringarna innebar.
+
 ## Förberedelse
 
 Läs kap 21 i kurslitteraturen samt föreläsningsmaterialet kring testning så är du väl förberedd på att klara laborationens moment.

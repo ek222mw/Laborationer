@@ -30,7 +30,7 @@ Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om
 
 ### GitHub och Versionshantering
 
-1. Logga först och främst in på GitHub och besök uppgiftens repro: [https://github.com/1dv404/Uppgift-1/](https://github.com/1dv404/Uppgift-1/)2.
+1. Logga först och främst in på GitHub och besök uppgiftens repro: [https://github.com/1dv404/Uppgift-1/](https://github.com/1dv404/Uppgift-1/).
 2. För att göra en "fork" av reprot så klickar du på "Fork" i övre högra delen av webbsidan.
 ![Fork][github-fork]
 3. Nu finns en kopia av ursprungsreprot på ditt GitHub-konto.
