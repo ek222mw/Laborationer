@@ -13,9 +13,9 @@ Du skall nu påbörja en enkel vision för ett valfritt system. Systemet kan var
 
 Fundera kring ett system du skulle vilja arbeta med, det kan vara något befintligt eller något som du hittar på själv. Ska du läsa kursen Individuellt mjukvaruprojekt till våren kan det här vara ett tillfälle att tjuvstarta.
 
-Har du problem att hitta ett lämpligt system så finns båtklubben [Den Glade Piraten ](http://coursepress.lnu.se/kurs/iterativ-mjukvaruutveckling/laborationer/l02-vision/den-glade-piraten/) att arbeta med.
+Har du problem att hitta ett lämpligt system så finns båtklubben [Den Glade Piraten ](://coursepress.lnu.se/kurs/iterativ-mjukvaruutveckling/laborationer/l02-vision/den-glade-piraten/) att arbeta med.
 
-1. Läs introduktionstexten till [visionen](https://coursepress.lnu.se/kurs/iterativ-mjukvaruutveckling/laborationer/l02-vision/)
+1. Läs introduktionstexten till [visionen](://coursepress.lnu.se/kurs/iterativ-mjukvaruutveckling/laborationer/l02-vision/vision/)
 2. Skapa en vision för ditt system
 3. Granska det du gjort för att undvika enkla fel och brister. Några saker att titta på:
 * Stavning och formatering
