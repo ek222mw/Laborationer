@@ -15,6 +15,9 @@ Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om
 
 ## Genomförande
 
+Gör en fork av repositoriet [https://github.com/1dv404/Scrum](https://github.com/1dv404/Scrum) och använd detta för att spara de artefakter du producerar i den här laborationen.
+
+
 1. Läs igenom labbhandledningen
 2. Kolla föreläsningen om Scrum
 3. Bestäm hur många sprints du ska köra och din sprintlängd i dagar (t.ex. 5-10), se dock till att du kan redovisa innan deadline.
@@ -23,7 +26,7 @@ Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om
 6. Skatta dina uppgifter med “Planning Poker” konceptet, se över din totalsumma så att den inte överskrider den tid du faktiskt kan arbeta.
 7. Summan av dina skattade tider dag 1 är utgångspunkten för beräkning av ideal tid och helt enkelt så många timmar du anser dig tror att du behöver.
 8. Skapa ett Burndown Chart
-9. Din Sprint Backlog och Sprint Burndown Chart ska versionshanteras t.ex. i subversion under “trunk/anvnamn/labb5/”
+9. Din Sprint Backlog och Sprint Burndown Chart ska versionshanteras tillsammans med din källkod.
 10. Arbeta med dina uppgifter i din sprint backlog
 11. Uppdatera Sprint Backlog baserat på ny kunskap varje dag du arbetar, ditt Burndown Chart ska då givetvis också uppdateras.
 12. Se till att versionshantera förändringar
@@ -59,9 +62,9 @@ I din sprint backlog så för du in alla “tasks” du planerar att genomföra 
 
 Utgå ifrån de user stories som presenterats ovan och dela upp dessa i lämpliga “tasks”. Tänk dock på att det kan finnas “tasks” som inte är direkt kopplade till en “user story”.
 
-Ett utökning av sprint backlock vi ska göra i denna kurs är att lägga in faktiskt arbetad tid för varje “task”. Dvs i slutet på sprinten vill vi veta hur mycket du faktiskt har arbetat och hur långt tid som varje “task” egentligen tog.
+En utökning av sprint backlock vi ska göra i denna kurs är att lägga in faktiskt arbetad tid för varje “task”. Dvs. i slutet på sprinten vill vi veta hur mycket du faktiskt har arbetat och hur långt tid som varje “task” egentligen tog.
 
-Ett enkelt sätt att hantera sin “sprint backlog” är helt enkelt att använda en tabell i ett kalkylark. Med en liknande struktur.
+Ett enkelt sätt att hantera sin “sprint backlog” är helt enkelt att använda en tabell i ett kalkylark.
 
 <table>
 <tr><th>Task</th><th>Day 1</th><th>Day 2</th><th>...</th><th>Total Time Worked</th></tr>
