@@ -17,7 +17,10 @@ Har du problem att hitta ett lämpligt system så finns båtklubben [Den Glade P
 
 ## Genomförande
 
-Börja med att göra en fork av repositoriet [https://github.com/1dv404/Uppgift-234](https://github.com/1dv404/Uppgift-234) Detta repositoriet kommer användas för att spara dina dokument för laboration 2 till 4.
+Börja med att göra en fork av repositoriet [https://github.com/1dv404/Uppgift-234](https://github.com/1dv404/Uppgift-234).
+Detta repositoriet kommer användas för att spara dina dokument för laboration 2 till 4.
+Vill du använda någon annan miljö t.ex. google docs för att skriva din dokumentation i så går det lika bra.
+Även där finns det ju en spårbarhet och versionshantering inbyggt. Isåfall lägger du en länk i ditt github repro som man kan komma åt dokumentationen via. 
 
 1. Läs introduktionstexten till [visionen](://coursepress.lnu.se/kurs/iterativ-mjukvaruutveckling/laborationer/l02-vision/vision/)
 2. Skapa en vision för ditt system
