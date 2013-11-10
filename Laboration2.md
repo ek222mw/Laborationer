@@ -35,7 +35,9 @@ Börja med att göra en fork av repositoriet [https://github.com/1dv404/Uppgift-
 * Har varje användargrupp något baskrav som “vänder” sig till dem?
 * Är baskraven “självklara” och inte nåt unikt?
 * Finns det någon ny/okänd användargrupp omnämnd i baskraven?
+
 4.Redovisa
+
 
 Följande artefakter skall du redovisa:
 
