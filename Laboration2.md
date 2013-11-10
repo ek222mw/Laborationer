@@ -22,6 +22,7 @@ Börja med att göra en fork av repositoriet [https://github.com/1dv404/Uppgift-
 1. Läs introduktionstexten till [visionen](://coursepress.lnu.se/kurs/iterativ-mjukvaruutveckling/laborationer/l02-vision/vision/)
 2. Skapa en vision för ditt system
 3. Granska det du gjort för att undvika enkla fel och brister. Några saker att titta på:
+
 * Stavning och formatering
 * Är problem/idé-beskrivningen kort och koncis men ändå fullständig? Kan någon annan förstå förstå problemet/idén?
 * Finns det någon bakgrund till projektet, något gammalt system?
