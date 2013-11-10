@@ -39,9 +39,6 @@ Vill du använda någon annan miljö t.ex. google docs för att skriva din dokum
 * Är baskraven “självklara” och inte nåt unikt?
 * Finns det någon ny/okänd användargrupp omnämnd i baskraven?
 
-4.Redovisa
-
-
 Följande artefakter skall du redovisa:
 
 Din färdiga vision

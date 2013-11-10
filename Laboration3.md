@@ -41,8 +41,6 @@ I denna laboration ska du givet den vision du skrev i en tidigare laboration dok
 * Kan man förstå du vad som händer i de olika stegen? Hade du vetat vad du ska implementera?
 * Stavning och formatering
 
-7. Redovisa
-
 ## Tips
 
 Några frågeställningar man kan ha hjälp av om man kör fast.
