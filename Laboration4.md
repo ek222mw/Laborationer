@@ -37,6 +37,7 @@ Nedan följer ett enkelt exempel på ett krav och de testfall som testar kravet
 ##### Alternativa scenarios
 
 4a. Användaren kunde inte autentisieras
+
 1. Systemet presenterar felmeddelande
 2. Gå till steg 2 i huvudscenario.
 
