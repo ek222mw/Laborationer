@@ -5,7 +5,7 @@ Arkiv (zip) med exekverbarfil, källkod, samt manual/specifikation och en tutori
 
 [VS2012_Test_Tutorial.mp4 2012-11-22 8.51 MB](http://orion.lnu.se/pub/education/course/1DV404/ht12/filer/labb/labb1/VS2012_Test_Tutorial.mp4)
 
-[Triangel.zip 2012-11-13 5.82 kB](http://orion.lnu.se/pub/education/course/1DV404/filer/labb/labb1/Triangel.zip)
+[Triangel.zip 2012-11-13 5.82 kB](http://orion.lnu.se/pub/education/course/1DV404/ht12/filer/labb/labb1/Triangel.zip)
 
 För närvarande finns kod för C# och Java (tack till Johannes Löhnn för Javadelen). Koden har samma funktionalitet och struktur men innehåller naturligtvis mindre språkspecifika skillnader. Välj det språk du själv känner dig mest bekväm med dock står man lite mer på egen hand om man väljer något annat än C# och VisualStudio som utvecklingsmiljö.
 
