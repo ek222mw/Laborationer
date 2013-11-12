@@ -25,7 +25,6 @@ Följande skall redovisas och finnas versionshanterat i ditt github konto:
 
 Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om du vill föreslå ändringar eller hålla koll på vad de senaste uppdateringarna innebar.
 
-
 ## Genomförande
 
 ### GitHub och Versionshantering
@@ -40,6 +39,8 @@ Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om
 
 ### Blackbox-testning
 
+- Observera att man måste köra triangel.exe från ett konsole fönster för att det ska fungera med inparametrar till programmet. Man kan alltså inte starta den genom att dubbelklicka på den.
+
 1. Analysera applikationen och skapa ett antal testfall. Använd t.ex. ekvivalensklasser och gränsvärdesanalys.
 2. Utför dina testfall, d.v.s. kör applikationen och mata in den indata du skapat enligt ovan.
 3. Granska och dokumentera utfallet (lyckat/misslyckat ev. kommentar).
@@ -47,6 +48,9 @@ Denna handledning ligger på [GitHub](https://github.com/1dv404/Laborationer) om
 5. Analysera ev. felaktigheter och sammanfatta i din testrapport.
 
 ### Whitebox-testning
+
+- Observera att unit testningen kräver att koden och projekten inte ligger på en nätverksdisk. Ni kan alltså inte ha detta på p:
+
 1. Analysera koden för den givna klassen (Triangle).
 2. Implementera enhetstester som täcker funktionaliteten i klassen.
 3. Utför enhetstesterna och korrigera de fel/defekter/brister du hittar om du satsar på betyg över 3.
